@@ -2,7 +2,7 @@
 
 ## Overview
 
-This document outlines the ethical considerations involved in the web scraping activities related to the News Scraper project and the measures taken to address them.
+This document outlines the ethical considerations involved in the web scraping activities related to the News Summarizer project and the measures taken to address them.
 
 ## Table of Contents
 
