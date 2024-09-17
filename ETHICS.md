@@ -1,5 +1,3 @@
-# ETHICS.md
-
 # Ethical Considerations in Web Scraping
 
 ## Overview
