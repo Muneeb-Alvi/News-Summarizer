@@ -69,3 +69,4 @@ if __name__ == "__main__":
     keyword = input("Enter a keyword to filter the news (or press Enter to show all news): ")
 
     display_news(news_list, keyword)
+    
